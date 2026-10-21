@@ -4,7 +4,7 @@ Assistant Researcher, Department of Atmospheric and Oceanic Sciences, **Universi
 
 I study **submesoscale dynamics, abyssal slope currents, flow–topography interaction and bottom boundary layers**, combining high-resolution realistic simulations (ROMS/CROCO), theory and observations.
 
-**Website, movies and figures:** [esthercapo.github.io](https://esthercapo.github.io) · **ORCID:** [0000-0003-1788-4925](https://orcid.org/0000-0003-1788-4925) · [Google Scholar](https://scholar.google.com/citations?user=v-tz5jsAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Esther-Capo)
+**Website, movies and figures:** [esthercapo.github.io](https://esthercapo.github.io) · **[CV (PDF)](https://esthercapo.github.io/cv/Capo_CV.pdf)** · **ORCID:** [0000-0003-1788-4925](https://orcid.org/0000-0003-1788-4925) · [Google Scholar](https://scholar.google.com/citations?user=v-tz5jsAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Esther-Capo)
 
 <p>
   <a href="https://esthercapo.github.io/#cossmoss"><img src="assets/Ro_his_z600_Dec2008_Jan2009_movie.gif" width="49%" alt="Deep vorticity at 600 m, Brazil–Malvinas Confluence"></a>
